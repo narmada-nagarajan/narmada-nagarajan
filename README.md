@@ -7,7 +7,7 @@
 - 🌱 **Methodologies:** Agile, SAFe, STLC
 - 📍 Coimbatore, Tamil Nadu, India
 
-📄 [Resume](https://drive.google.com/file/d/15RchHZLF4TSBFh3YXW57rjAnvn5uQDN3/view?usp=drive_link) &nbsp;|&nbsp;
+📄 [Resume](https://drive.google.com/file/d/1Q0wbHA760M5UMwOWd7SLmXTmp54acdvU/view?usp=drive_link) &nbsp;|&nbsp;
 💼 [LinkedIn](https://linkedin.com/in/narmada-nagarajan)
 
 ---
