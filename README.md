@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I'm Narmada 👋
 
-<!--
-**narmada-nagarajan/narmada-nagarajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior QA / Test Lead** with 11+ years in Software Testing across Retail Banking, Insurance, and Life Sciences. ISTQB Certified Tester (CTFL). Currently completed an M.Sc. in Computer Science and returning to the industry after a career break.
 
-Here are some ideas to get you started:
+- 🔍 **Testing:** Manual, Automation (Selenium), API (Postman, SoapUI), Mobile
+- 🛠️ **Tools:** HP ALM, JIRA, Qtest, BrowserStack
+- 🌱 **Methodologies:** Agile, SAFe, STLC
+- 📍 Coimbatore, Tamil Nadu, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📄 [Resume] (https://drive.google.com/file/d/1G5vnvxW2ho6ihwsLKgKZMdxfOxWEEErr/view?usp=drive_link)
+💼 [LinkedIn](https://linkedin.com/in/narmada-nagarajan)
+
+---
+📌 Check out my [QA Portfolio](https://github.com/narmada-nagarajan/qa-portfolio) for sample test cases and automation scripts.
