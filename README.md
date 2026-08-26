@@ -1,6 +1,6 @@
 ### Hi, I'm Narmada 👋
 
-**Senior QA / Test Lead** with 11+ years in Software Testing across Retail Banking, Insurance, and Life Sciences. ISTQB Certified Tester (CTFL). Currently completed an M.Sc. in Computer Science and returning to the industry after a career break.
+**Senior QA / Test Lead** with 11+ years in Software Testing across Banking, Insurance, Healthcare and Life Sciences. ISTQB Certified Tester (CTFL). Currently completed an M.Sc. in Computer Science and returning to the industry after a career break.
 
 - 🔍 **Testing:** Manual, Automation (Selenium), API (Postman, SoapUI), Mobile
 - 🛠️ **Tools:** HP ALM, JIRA, Qtest, BrowserStack
